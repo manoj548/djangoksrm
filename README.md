@@ -1,0 +1,2 @@
+# djangoksrm
+basic Django project
